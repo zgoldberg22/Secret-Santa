@@ -1,5 +1,5 @@
 # **Secret Santa Generator**
-
+---
 ## **Description**
 The Secret Santa Generator is a command line, text-based program made in Python. The program randomly assigns secret santas using a user-inputted list of people. Then, an email is sent out telling each person who they are giving a gift to for Secret Santa.
 
