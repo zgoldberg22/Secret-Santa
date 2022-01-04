@@ -21,5 +21,6 @@ pip install re
 - The user will need to input an email as the "from" email. In order for the smtplib library to send the message over the server, you must turn on the "Allow less secure apps". You can access this setting through this link: https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4MpnzNxivK7AA5NPn6yGXE03ryCeVUFOBt6_ZP-fPX1HFBvCiYuZ3OZYd_QkVz80bMfOG3DDHCjrKJ7Q1hODzpONl0zNw
 ---
 ### **Credits**
-Made by: Zoe Goldberg
-<br>Date: 01/04/22
+Created by: Zoe Goldberg
+<br>Date Published: 01/04/22
+<br>Date Created: 11/05/21
